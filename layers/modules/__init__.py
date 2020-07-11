@@ -4,4 +4,4 @@ from .focal_loss import FocalLoss
 from .GIoU import GiouLoss
 
 # __all__ = ['L2Norm', 'MultiBoxLoss']
-__all__ = ['GiouLoss', 'FocalLoss']
+__all__ = ['L2Norm', 'FocalLoss']
